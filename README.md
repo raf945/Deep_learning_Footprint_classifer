@@ -315,6 +315,8 @@ It shows the project includes not only performance tuning, but also **interpreta
 - Kaggle private leaderboard score reported in the notebook: **0.809**
 - Total Kaggle submissions: **24**
 
+  ![Final Model Architecture](https://github.com/raf945/Deep_learning_Footprint_classifer/blob/main/CNN5_Architecture.png)
+
 ### Submission file
 
 The notebook generates a `submission.csv` file with:
