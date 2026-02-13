@@ -361,7 +361,3 @@ If I were taking this beyond the competition/coursework setting:
 - Calibrate output probabilities for better decision thresholds
 
 ---
-
-## Author and context
-
-Coursework notebook authored as part of a deep learning assessment at Bournemouth University.
