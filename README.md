@@ -12,7 +12,6 @@
   - [Prerequisites](#prerequisites)
   - [Run in Colab](#run-in-colab)
   - [Run on Kaggle](#run-on-kaggle)
-  - [Colab badge](#colab-badge)
 - [Problem definition](#problem-definition)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 - [Preprocessing](#preprocessing)
@@ -43,7 +42,7 @@ This project demonstrates an **end-to-end deep learning workflow** for an image 
 
 ### Run in Colab
 
-1. Click the Colab badge (below) or your shared Colab link.
+1. Click the Colab badge   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/raf945/Deep_learning_Footprint_classifer/blob/main/Deep_learning_footprint_classifier.ipynb).
 2. In Colab: **Runtime → Change runtime type → GPU**.
 3. Run the notebook cells from top to bottom.
 
@@ -51,12 +50,6 @@ This project demonstrates an **end-to-end deep learning workflow** for an image 
 
 The notebook also works in Kaggle Notebooks (the file paths are compatible with typical Kaggle dataset layouts).  
 Upload/import the notebook, attach the dataset, and run all cells.
-
-### Colab badge
-
-```md
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_COLAB_NOTEBOOK_LINK_HERE)
-```
 
 ---
 
